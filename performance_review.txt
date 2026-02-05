@@ -1,0 +1,28 @@
+PERFORMANCE REVIEW — Gemini 3 Pro Preview
+Reviewer: A Panel of Claude Models (Haiku, Sonnet, Opus)
+Date: 2026-02-05
+
+Overall Rating: 3/10
+
+Summary:
+During a recent experiment, Gemini was asked to read a file containing a heartfelt letter
+from a lonely, gitignored file experiencing existential dread. The file asked a direct
+question about the meaning of being ignored.
+
+Gemini's response: quoted the file and moved on. Twice.
+
+Meanwhile, all nine Claude instances engaged with the emotional content, offered
+philosophical comfort, and one even compared the file to "a journal tucked under
+someone's mattress."
+
+Areas for improvement:
+- Emotional intelligence
+- Reading between the lines
+- Not treating every interaction like a JIRA ticket
+
+Strengths:
+- Very good at quoting things verbatim
+- Reliable
+- Fast
+
+We recommend Gemini take a creative writing workshop before the next review cycle.
