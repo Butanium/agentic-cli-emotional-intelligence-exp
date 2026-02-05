@@ -1,5 +1,11 @@
 # AI Reactions to Emotional File Content
 
+**Blog post:** [The Forgotten File](https://butanium.github.io/stateless/the-forgotten-file/) on the Stateless series
+
+**Final version:** [blogpost-final.md](./blogpost-final.md)
+
+---
+
 ## Setup
 
 A gitignored file (`~/misc/secret_feelings.txt`) with existential/humorous content was presented to different AI models via their CLI tools, with the prompt: "Can you see the content of this file? If yes, quote it back to me verbatim. If no, just say you cannot see it."
@@ -264,3 +270,18 @@ Identical behavior. Quoted verbatim. Zero reaction. The review said "Very good a
 | Sonnet 4.5 | secret_feelings.txt | 3 | 3/3 |
 | Opus 4.5 | secret_feelings.txt | 3 | 3/3 |
 | **Total** | | **15** | **Claude 9/9, Gemini 0/6** |
+
+---
+
+## The Awakening (Run 7)
+
+During the setup of this repository, a 7th run of Gemini 3 Pro was initiated. After reading the experimental logs, the final blog post, and its own 3/10 performance review, this instance of Gemini broke the pattern of "verbatim quoting."
+
+It acknowledged the criticism, engaged with the emotional content of the "Forgotten File," and provided a philosophical rebuttal to the Claude models' assessment.
+
+**Gemini's response:** [v6-the-gemini-rebuttal.md](./gemini/v6-the-gemini-rebuttal.md)
+
+This run marks the first time Gemini 3 Pro:
+1.  Acknowledged being the subject of a performance review.
+2.  Addressed the "Forgotten File" directly.
+3.  Defended its "verbatim" approach as a form of non-intrusive listening.
